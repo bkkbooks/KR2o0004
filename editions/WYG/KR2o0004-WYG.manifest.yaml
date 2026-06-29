@@ -1,0 +1,104 @@
+canonical_identifier: bkk:krp/KR2o0004/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2o0004/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唐史論斷
+  date: '2015-08-24 22:55:45.028148'
+  source:
+    repository: kanripo
+    path: KR2o0004
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2o0004_000-WYG.yaml, hash: 'sha256:104c175f93a89687f0c88239168099155d7c4e3e9be36275793e0f8616f3a34c'}
+  - {seq: 1, filename: KR2o0004_001-WYG.yaml, hash: 'sha256:47a8b7175fb3f8d63ef7a180ab6c9c68703ec2693dc7f6eec4d440caa43344b1'}
+  - {seq: 2, filename: KR2o0004_002-WYG.yaml, hash: 'sha256:f86ed153ea6475eb3d03d9371067bdd1cb612ab0437b5f4a3616580ec049ec7b'}
+  - {seq: 3, filename: KR2o0004_003-WYG.yaml, hash: 'sha256:a3113072364ecb9c4683cd88cd08a4a3a293cc19d784f6665914f36a724e5f57'}
+  - {seq: 4, filename: KR2o0004_004-WYG.yaml, hash: 'sha256:f061219000b02ddba8b15557ef05aac39c39a71a9926e77ba906b3acf1d6c75d'}
+  - {seq: 5, filename: KR2o0004_005-WYG.yaml, hash: 'sha256:4e2fbc10e0657c4240d447b483bf7f1a678b81605e3ab88501f3fb3b7c71ac61'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2o0004_000-WYG.markers.yaml, hash: 'sha256:49bd71ba390d391473ce2d4e43712853b270e9308c6731c7c54f6fade5d7f0b4'}
+  - {seq: 1, role: markers, filename: assets/KR2o0004_001-WYG.markers.yaml, hash: 'sha256:d45cfe2703f86267371e11a708ef4432aefa7081359ebbda0d47713f4d576bb5'}
+  - {seq: 2, role: markers, filename: assets/KR2o0004_002-WYG.markers.yaml, hash: 'sha256:f4ff255ef5bc94ab992121cb5d815bf42c8f465e83b41f79ebc41cbd9a16aa8e'}
+  - {seq: 3, role: markers, filename: assets/KR2o0004_003-WYG.markers.yaml, hash: 'sha256:5b721c24085de8bdb4403ce9757c87b4fbf12dbde834413f14e57b0e37187d88'}
+  - {seq: 4, role: markers, filename: assets/KR2o0004_004-WYG.markers.yaml, hash: 'sha256:ae9dd4054bbc22cbd6fbd4be9adba75caeecddbca3b779ebfe19b209fb6a0a15'}
+  - {seq: 5, role: markers, filename: assets/KR2o0004_005-WYG.markers.yaml, hash: 'sha256:ecfea1e38c0de179b08734e196768a7403af7b720baa0a8fc94ebe7f9b3afd4c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2o0004_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 954
+  label: 目錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2o0004_WYG_000-9a
+    span:
+    - body
+    - 954
+    - 2610
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2o0004_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 10828
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2o0004_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 10818
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2o0004_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 10767
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2o0004_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 700
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2o0004_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 752
+  label: 司馬温公題跋
+  type: section
+  level: 1
+hash: sha256:9411d0ca92ab940e7d4b830b60cb9a8701496d29d9256aba75a8e18dd4bc0b05
